@@ -29,8 +29,8 @@ The goal of this project is to identify and visualize potential patterns between
 ## Installation and Setup
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
+   git clone https://github.com/leocoder22/Search-vs-Price-Data-Science.git
+   cd Search-vs-Price-Data-Science
    ```
 
 2. **Install dependencies**
